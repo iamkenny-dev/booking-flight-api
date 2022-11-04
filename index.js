@@ -13,7 +13,7 @@ app.use("/user", routes);
 // get method
 
 app.get("/user", (req, res) => {
-  res.send("Zuri Training");
+  res.send("flight api");
 })
 
 const port = process.env.PORT || 3000;
