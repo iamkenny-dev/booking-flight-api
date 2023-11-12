@@ -1,8 +1,8 @@
-# Booking Flights Api
+# Booking Flight Api
 
 * ## Git clone repo
 
 * ## npm install
 
-* ## npm run dev
+* ## npm run de
 
