@@ -1,4 +1,4 @@
-# Booking Flight Api
+# Bookings Flight Api
 
 * ## Git clone repo
 
